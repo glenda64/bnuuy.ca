@@ -7,6 +7,10 @@ body {
 	width: 400px;
 }
 
+h1 {
+	margin-bottom: 0;
+}
+
 p.caption {
 	text-align: right;
 	font-style: italic;
@@ -14,6 +18,7 @@ p.caption {
 }
 
 p.bio {
+	margin-top: 0;
 	font-weight: bold;
 }
 
