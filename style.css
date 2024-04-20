@@ -1,0 +1,43 @@
+html {
+	font-family: "Arial", sans-serif;
+}
+
+body {
+	margin: auto;
+	width: 400px;
+}
+
+p.caption {
+	text-align: right;
+	font-style: italic;
+	font-size: 14px;
+}
+
+p.bio {
+	font-weight: bold;
+}
+
+hr {
+	border-bottom: 1px solid black;
+}
+
+img {
+	max-width: 100%;
+}
+
+p {
+	line-height: 140%;
+}
+
+a {
+	color: #33f;
+}
+
+a:visited {
+	color: #70b;
+}
+
+::selection {
+	background-color: #9df;
+	color: #000;
+}
