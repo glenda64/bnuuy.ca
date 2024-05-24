@@ -1,0 +1,36 @@
+html {
+  font-family: system-ui, sans-serif;
+  line-height: 1.4;
+}
+
+body {
+  margin: auto;
+  width: 600px;
+}
+
+p.caption {
+  text-align: right;
+  font-style: italic;
+  font-size: 14px;
+}
+
+hr {
+  border: 1px solid black;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: #33f;
+}
+
+a:visited {
+  color: #70b;
+}
+
+::selection {
+  background-color: #9df;
+  color: #000;
+}
